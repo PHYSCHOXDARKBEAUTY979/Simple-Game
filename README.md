@@ -5,4 +5,4 @@ It's a clicking game Based on HTML programming
 <br>
 Just click and increase the count 
 <br>
-A Code
+A Code of Game
